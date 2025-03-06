@@ -1,24 +1,20 @@
-<h2 align="left">Hi 👋! My name is Theo and I'm a Developper, from France</h2>
+<h2 align="left">Hi 👋! My name is ZeroxarZ and I'm a Developper, from France</h2>
 
 ###
-
-<img src="https://github.com/Schweinepriester/Schweinepriester/raw/master/MeagerHardtofindAlbertosaurus-size_restricted.gif">
 
 [comment]:<img align="right" height="200" src="https://i.goopics.net/x2swau.png"  />
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tixeo" alt="tixeo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeroxarZ" alt="ZeroxarZ" /></a> </p>
 
-- 🔭 I’m currently working on [Wheeloh](https://wheeloh.com)
+- 🔭 I’m currently working on [MakeCraftRP](https://makecraftrp.com)
 
-- 👨‍💻 All of my projects are available at [https://theo.wheeloh.com](https://theo.wheeloh.com)
-
-- 📫 How to reach me **theo@wheeloh.com**
+- 📫 How to reach me **contact@makecraftrp.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/tixeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tixeo" height="30" width="40" /></a>
+<a href="https://discord.makecraftrp.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZeroxarZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
