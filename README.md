@@ -22,14 +22,6 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:razfloque@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 [comment]:<br clear="both">
 
 [comment]:<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
