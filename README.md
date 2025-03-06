@@ -4,9 +4,6 @@
 
 [comment]:<img align="right" height="200" src="https://i.goopics.net/x2swau.png"  />
 
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeroxarZ" alt="ZeroxarZ" /></a> </p>
 
 - 🔭 I’m currently working on [MakeCraftRP](https://makecraftrp.com)
 
