@@ -34,6 +34,8 @@
 
 ## 🐍 Animation Snake (contributions)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <a href="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg/">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake">
+  </a>
+</div>
