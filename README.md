@@ -1,9 +1,9 @@
-<h1 align="center">Salut 👋, moi c'est ZeroxarZ</h1>
-<h3 align="center">Développeur passionné basé en France 🇫🇷</h3>
+<h1 align="center">Hi 👋, I'm ZeroxarZ</h1>
+<h3 align="center">A passionate developer based in France 🇫🇷</h3>
 
 <p align="center">
-  🔭 Actuellement sur <a href="https://makecraftrp.com" target="_blank"><strong>MakeCraftRP</strong></a><br>
-  📫 Contact : <strong>contact@makecraftrp.com</strong>
+  🔭 Currently working on <a href="https://makecraftrp.com" target="_blank"><strong>MakeCraftRP</strong></a><br>
+  📫 Contact: <strong>contact@makecraftrp.com</strong>
 </p>
 
 ---
