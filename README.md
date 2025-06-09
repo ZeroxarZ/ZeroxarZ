@@ -26,12 +26,9 @@
 
 ---
 
-## 📈 Stats GitHub
+[comment]:<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeroxarz&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxarz&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+[comment]:<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ---
 
