@@ -26,12 +26,6 @@
 
 ---
 
-[comment]:<br clear="both">
-
-[comment]:<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
----
-
 ## 🐍 Animation Snake (contributions)
 
 <div align="center">
