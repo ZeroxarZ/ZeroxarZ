@@ -13,6 +13,6 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake" width="80%">
+  <img src="https://github.com/ZeroxarZ/ZeroxarZ/blob/output/github-snake-dark.svg" alt="snake" width="80%">
 </div>
 
