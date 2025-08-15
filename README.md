@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <div align="center">
   <h1>👋 ZeroxarZ</h1>
   <p>Développeur passionné en France 🇫🇷</p>
@@ -16,3 +18,4 @@
   <img src="https://github.com/ZeroxarZ/ZeroxarZ/blob/output/github-snake-dark.svg" alt="snake" width="80%">
 </div>
 
+![Header](./footer.png)
